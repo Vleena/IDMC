@@ -1,0 +1,13 @@
+{
+  "name" : "Linear Taskflow1",
+  "tasks" : [
+    {
+      "taskId" : "@e7Q6bW9zKoqcRZKWsGAaup",
+      "type" : "DSS",
+      "name" : "DSS_SF_SQL",
+      "stopOnError" : false,
+      "stopOnWarning" : false
+    }
+  ],
+  "vcsExportTime" : "2026-06-01 20:41:34 IST"
+}

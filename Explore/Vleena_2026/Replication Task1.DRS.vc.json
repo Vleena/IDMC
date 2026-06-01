@@ -1,0 +1,32 @@
+{
+  "name" : "Replication Task1",
+  "maxLogs" : 10,
+  "sourceConnectionId" : "@4knfNZ6r5COcXVnNaVdxQy",
+  "sourceConnectionName" : "vmas_SF",
+  "targetConnectionId" : "@5xUb7rtX3Z0iPfRbmzk7cb",
+  "targetConnectionName" : "vmas_sqlserver",
+  "tablePrefix" : "SF_",
+  "verbose" : false,
+  "fullRefresh" : false,
+  "replicateAllObjects" : false,
+  "removeDeleted" : true,
+  "queryAll" : false,
+  "srcShowLabels" : true,
+  "maxRows" : 0,
+  "stopOnError" : true,
+  "replicationObjects" : [
+    "Account"
+  ],
+  "metadataMode" : 0,
+  "bulkApi" : false,
+  "base64BodySize" : 0.0,
+  "bulkApiDBTarget" : false,
+  "srcRuntimeAttrs" : {
+    "attrs" : {
+      "Maximum Rows Per Request" : "0",
+      "PK Chunking size" : "100000",
+      "Enable PK Chunking" : "0"
+    }
+  },
+  "vcsExportTime" : "2026-06-01 20:41:34 IST"
+}

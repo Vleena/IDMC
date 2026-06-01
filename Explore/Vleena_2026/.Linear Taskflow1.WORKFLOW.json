@@ -1,0 +1,53 @@
+{
+  "objectInfo" : {
+    "id" : "6hfBjltgQ3QgnQHCIYe0Et",
+    "name" : "Linear Taskflow1",
+    "type" : "WORKFLOW",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "01DKS20N000000000002"
+      },
+      "contextAttributes" : [ {
+        "name" : "id",
+        "value" : "@1"
+      } ],
+      "additionalInfo" : {
+        "description" : null,
+        "contentType" : "JSON",
+        "documentState" : "VALID"
+      }
+    }
+  },
+  "dataFileExtension" : "zip",
+  "updateTime" : "2026-06-01T15:11:35.703Z",
+  "objectRefs" : [ {
+    "id" : "e7Q6bW9zKoqcRZKWsGAaup",
+    "name" : "DSS_SF_SQL",
+    "type" : "DSS",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "01DKS20I000000000003"
+      },
+      "contextAttributes" : [ {
+        "name" : "id",
+        "value" : "@1"
+      } ],
+      "additionalInfo" : {
+        "description" : "",
+        "contentType" : "JSON",
+        "documentState" : "VALID"
+      }
+    },
+    "path" : "/Explore/Vleena_2026"
+  } ],
+  "readableFileExtension" : "json",
+  "readableFilePresent" : true
+}
